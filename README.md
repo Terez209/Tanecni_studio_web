@@ -4,7 +4,7 @@
 - Velký poutavý vizuál (foto nebo video ze studia)
 - Krátké představení studia
 - Přehled nejbližších akcí nebo lekcí
-- Výrazná tlačítka pro rychlou akci (např. „Rezervovat lekci“)
+- Tlačítka jako např. rezervovat
 
 ## 2. O nás 
 - Historie studia
