@@ -1,5 +1,7 @@
 # Tanecni_studio_web
 
+http://studiorocnikovka.borec.cz:8080
+
 ## 1. Úvodní strana (Homepage)
 - Velký poutavý vizuál (foto nebo video ze studia)
 - Krátké představení studia
